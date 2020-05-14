@@ -6,4 +6,4 @@ Parte do curso da Digitalinnovationoone
 Jogo da cobrinha feito em javascript
 [teste o jogo clicando aqui](https://andresds.github.io/html5css3dio/)
 
-![alt text](https://github.com/[andresds]/[html5css3dio]/blob/[master]/print.jpg?raw=true)
+![alt text](https://github.com/AndreSDS/html5css3dio/blob/master/print.png?raw=true)
