@@ -1,7 +1,7 @@
 # html5css3dio
 Parte do curso da Digitalinnovationoone
 
-#Snake Game
+# Snake Game
 
 Jogo da cobrinha feito em javascript
 [teste o jogo clicando aqui](https://andresds.github.io/html5css3dio/)
